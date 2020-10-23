@@ -50,6 +50,12 @@ namespace Buta_Camelia_lab2.Data
                 context.Orders.Add(e);
             }
             context.SaveChanges();
+            
         }
     }
 }
+
+
+
+
+
