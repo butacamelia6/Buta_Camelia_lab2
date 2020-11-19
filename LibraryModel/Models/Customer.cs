@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Buta_Camelia_lab2.Models
+namespace LibraryModel.Models
 {
     public class Customer
     {

@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Buta_Camelia_lab2.Data;
-using Buta_Camelia_lab2.Models;
+using LibraryModel.Data;
+using LibraryModel.Models;
+
 
 namespace Buta_Camelia_lab2.Controllers
 {

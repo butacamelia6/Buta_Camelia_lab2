@@ -5,10 +5,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Buta_Camelia_lab2.Models;
+using LibraryModel.Models;
 using Microsoft.EntityFrameworkCore;
-using Buta_Camelia_lab2.Data;
-using Buta_Camelia_lab2.Models.LibraryViewModels;
+using LibraryModel.Data;
+using LibraryModel.Models.LibraryViewModels;
+
 
 namespace Buta_Camelia_lab2.Controllers
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
-namespace Buta_Camelia_lab2.Models
+namespace LibraryModel.Models
 {
     public class Publisher
     {

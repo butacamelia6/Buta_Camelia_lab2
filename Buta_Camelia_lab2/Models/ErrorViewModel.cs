@@ -1,6 +1,6 @@
 using System;
 
-namespace Buta_Camelia_lab2.Models
+namespace LibraryModel.Models
 {
     public class ErrorViewModel
     {

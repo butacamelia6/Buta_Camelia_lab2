@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using Buta_Camelia_lab2.Data;
+using LibraryModel.Data;
 
 namespace Buta_Camelia_lab2
 {
