@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buta_Camelia_lab2", "Buta_Camelia_lab2\Buta_Camelia_lab2.csproj", "{291395C0-3807-4FA2-8A29-6FB0524A91A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryModel", "LibraryModel\LibraryModel.csproj", "{B4AA3ACD-A9CB-4F1B-924B-63CE07424231}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryModel", "LibraryModel\LibraryModel.csproj", "{B4AA3ACD-A9CB-4F1B-924B-63CE07424231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryWebAPI", "LibraryWebAPI\LibraryWebAPI.csproj", "{7D2D2499-7066-447C-A4B1-681C1C93B0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryWebAPI", "LibraryWebAPI\LibraryWebAPI.csproj", "{7D2D2499-7066-447C-A4B1-681C1C93B0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
